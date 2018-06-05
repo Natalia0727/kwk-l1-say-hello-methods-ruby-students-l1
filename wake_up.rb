@@ -1,6 +1,9 @@
 def wake_up
   puts "shut off alarm "
   puts "pick out clothes for the day"
+  10.times do
+  puts "change mind"
+end
   puts "brush teeth"
   puts "get in shower"
   puts "shower"
